@@ -1,0 +1,28 @@
+name: DN
+favicon: null
+layout_spectrum: 0.34633255284279585
+typography_spectrum: 0.7072920394130051
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4186070419382304
+  lightness: 0.17195136146619916
+  saturation: 0.18270963220857084
+  rhythmicContrast: 0.6847546070348471
+purpose: []
