@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-31T08:13:31.761Z'
-dateModified: '2015-12-31T08:13:16.818Z'
+datePublished: '2016-01-01T13:27:29.708Z'
+dateModified: '2015-12-31T08:38:19.421Z'
 title: Wie zijn wij ?
 author: []
+sourcePath: _posts/2015-12-31-wie-zijn-wij.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-31-wie-zijn-wij.md
-published: true
 url: wie-zijn-wij/index.html
 _type: Article
 
@@ -25,7 +25,6 @@ _type: Article
 # Wie zijn wij ?
 
 DN is een onderdeel van Vuurpijl Beheer BV. Vuurpijl Beheer BV is eigendom van Roger Heykoop.
-null
 
 _Roger was in 1996 mede-oprichter van de grootste webhosting provider van Nederland in de jaren 90; VuurWerk Internet.  _
 
