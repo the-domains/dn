@@ -1,7 +1,7 @@
 name: DN
 favicon: null
 layout_spectrum: 0.60273
-typography_spectrum: 0.49318
+typography_spectrum: 0.24084
 title: DN maakt Ruby on Rails webapplicaties
 collections:
   - index:
@@ -36,6 +36,6 @@ color:
     - '#ffff00'
   brandStrength: 0.5625
   lightness: 0.5625
-  saturation: 0.4375
+  saturation: 0.5
   rhythmicContrast: 1
 purpose: []
