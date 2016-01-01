@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-01T13:27:29.708Z'
-dateModified: '2015-12-31T08:38:19.421Z'
+datePublished: '2016-01-01T13:31:42.079Z'
+dateModified: '2016-01-01T13:31:37.088Z'
 title: Wie zijn wij ?
 author: []
 sourcePath: _posts/2015-12-31-wie-zijn-wij.md
@@ -32,4 +32,4 @@ Door de enorme groei van het zeer succesvolle VuurWerk Internet kwamen de intern
 
 De wens om die processen beter te automatiseren resulteerde in verregaande automatisering die het werk van 25 FTE krachten bij VuurWerk Internet helemaal kon overnemen. Hierdoor ontstond ruimte voor betere service naar de klanten. 
 
-In 2001 is dit systeem in de markt gezet voor andere internetproviders, waarna het in 2006 is herschreven in een van de eerste versies van Ruby on Rails. null
+In 2001 is dit systeem in de markt gezet voor andere internetproviders, waarna het in 2006 is herschreven in een van de eerste versies van Ruby on Rails. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c82da022-074b-45d0-9cec-4816cb2dc9f6.jpg)
