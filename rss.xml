@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Ruby on Rails webapplicaties]]></title>
-        <description><![CDATA[Ruby on Rails webapplicaties]]></description>
+        <title><![CDATA[DN maakt Ruby on Rails webapplicaties]]></title>
+        <description><![CDATA[DN maakt Ruby on Rails webapplicaties]]></description>
         <link>http://www.dn.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 13:59:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jan 2016 14:33:39 GMT</lastBuildDate>
         <atom:link href="http://www.dn.nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>DN is een onderdeel van Vuurpijl Beheer BV, kvk nummer 34108141.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c23c4bd01b4950adb3e749e0efb7eb4b0948359.jpg"></article>]]></description>
+            <link>http://www.dn.nl/contact/index.html</link>
+            <guid isPermaLink="false">20c304ba-3b4a-4b30-ac89-850e020140d8</guid>
+            <pubDate>Fri, 01 Jan 2016 14:33:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Onze werkwijze bij software ontwikkeling]]></title>
             <description><![CDATA[<article><h1>Onze werkwijze bij software ontwikkeling</h1><p>Na een eerste inventarisatie ontvangt u van ons een plan waarin wij beschrijven hoe uw applicatie ontwikkeld zal worden. Dit plan bevat een omschrijving van de functionaliteit, tijdsduur/fasering en de prijs waarvoor de applicatie ontwikkeld zal worden, alsmede de kostprijs van eventueel meerwerk. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7560e7af1bf3033d3b94c48ce6bc2bd56398f230.jpg"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[DN.nl]]></title>
-            <description><![CDATA[<article><h1>DN.nl</h1><p>dn.nl</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/854f4eb61817dbc7a284ee35ffe01afd1ab32bd9.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>DN.nl</h1><p>dn.nl</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f7d9790623d8dc4a60d053df8cb41012e90aafc.jpg"></article>]]></description>
             <link>http://www.dn.nl/6ad8e38f-c6fb-4ab3-9dc0-408f58750361/index.html</link>
             <guid isPermaLink="false">6ad8e38f-c6fb-4ab3-9dc0-408f58750361</guid>
             <pubDate>Fri, 01 Jan 2016 13:27:29 GMT</pubDate>
