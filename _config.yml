@@ -1,5 +1,8 @@
+name: DN
+favicon: null
+layout_spectrum: 0.73998
+typography_spectrum: 0.49318
 title: Ruby on Rails webapplicaties
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1827096
-  brandStrength: 1
-  lightness: 0.7526882
   brandColors:
     - '#000000'
     - '#fefef9'
     - '#32414b'
     - '#438baf'
     - '#97aebc'
+  brandStrength: 0.5625
+  lightness: 0.7526882
+  saturation: 0.1827096
   rhythmicContrast: 0.6847546
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: DN
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.49318
-layout_spectrum: 0.73998
+purpose: []
