@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T11:07:58.788Z'
-dateModified: '2016-01-03T11:07:50.444Z'
+datePublished: '2016-01-03T11:12:45.347Z'
+dateModified: '2016-01-03T11:12:35.597Z'
 title: Wie zijn wij ?
 author: []
 sourcePath: _posts/2015-12-31-wie-zijn-wij.md
