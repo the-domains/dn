@@ -4,8 +4,15 @@
         <description><![CDATA[DN maakt Ruby on Rails webapplicaties]]></description>
         <link>http://www.dn.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 11:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 11:23:13 GMT</lastBuildDate>
         <atom:link href="http://www.dn.nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Waarom Ruby on Rails ?]]></title>
+            <description><![CDATA[<article><h1>Waarom Ruby on Rails ?</h1><p>Ruby on Rails is een framework waarin een aantal conventies samenkomen die de kwaliteit van de gemaakte software positief kunnen beïnvloeden ten opzichte van bijvoorbeeld PHP. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b84cce98eea7a9350a28e2c4c5293c0547159a7f.jpg"></article>]]></description>
+            <link>http://www.dn.nl/1c4ca4ba-59e6-44c2-9654-477fc5f8fba7/index.html</link>
+            <guid isPermaLink="false">1c4ca4ba-59e6-44c2-9654-477fc5f8fba7</guid>
+            <pubDate>Sun, 03 Jan 2016 11:23:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ruby on RailsSoftwareontwikkeling is onze passieDN ontwikkelt Ruby on Rails webapplicaties]]></title>
             <description><![CDATA[<article><h1>Ruby on RailsSoftwareontwikkeling is onze passieDN ontwikkelt Ruby on Rails webapplicaties</h1><p>Sinds 2006 ontwikkelen wij software in Ruby on Rails. In die jaren is Ruby on Rails gegroeid naar een volwassen platform wat op enkele van de grootste websites van Nederland wordt gebruikt. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1de8acdfe662224a8a481507f607f971d750eee1.jpg"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Contact]]></title>
-            <description><![CDATA[<article><h1>Contact</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d819bb8-8198-49aa-b6c2-71d2f6002239.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Contact</h1><p>Ons postadres:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6334d9ec8ab3a761ec4683118663f82dd2c6e72.jpg"></article>]]></description>
             <link>http://www.dn.nl/contact/index.html</link>
             <guid isPermaLink="false">7c7c1071-cc0c-4bf8-a7a0-e3ab3f22843e</guid>
             <pubDate>Sun, 03 Jan 2016 11:22:04 GMT</pubDate>
