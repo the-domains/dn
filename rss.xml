@@ -4,8 +4,15 @@
         <description><![CDATA[DN maakt Ruby on Rails webapplicaties]]></description>
         <link>http://www.dn.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 10:35:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 10:35:38 GMT</lastBuildDate>
         <atom:link href="http://www.dn.nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26feac38-a1bc-4041-ab39-2bef45013a5f.png">]]></description>
+            <link>http://www.dn.nl/4be9a64d-4937-4125-8160-f0834323ca17/index.html</link>
+            <guid isPermaLink="false">4be9a64d-4937-4125-8160-f0834323ca17</guid>
+            <pubDate>Sun, 03 Jan 2016 10:35:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Offshore Profile ]]></title>
             <description><![CDATA[<article><h1>Offshore Profile </h1><p>Offshore Profile is ontstaan om bedrijfsprocessen binnen Marine Coordination te automatiseren. Voorheen was er sprake van Excel sheets, het handmatig verwerken van gegevens over bezetting op schepen die via radio werd ontvangen. Tevens worden er medische gegevens van werknemers, hun certificaten en vele andere details verwerkt. </p></article>]]></description>
