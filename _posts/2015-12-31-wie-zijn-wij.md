@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T11:12:45.347Z'
-dateModified: '2016-01-03T11:12:35.597Z'
+datePublished: '2016-01-03T11:29:02.133Z'
+dateModified: '2016-01-03T11:28:58.589Z'
 title: Wie zijn wij ?
 author: []
 sourcePath: _posts/2015-12-31-wie-zijn-wij.md
@@ -22,7 +22,7 @@ url: wie-zijn-wij/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6e94b0c39987b0840b0cb1ada7b56e48128e9d8.jpg)
+![Roger Heykoop](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3ec831990c57e55b4538cfb69990be40cfbd0b8.jpg)
 
 # Wie zijn wij ?
 
