@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-01T13:31:42.079Z'
-dateModified: '2016-01-01T13:31:37.088Z'
+datePublished: '2016-01-03T11:07:58.788Z'
+dateModified: '2016-01-03T11:07:50.444Z'
 title: Wie zijn wij ?
 author: []
 sourcePath: _posts/2015-12-31-wie-zijn-wij.md
@@ -22,6 +22,8 @@ url: wie-zijn-wij/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6e94b0c39987b0840b0cb1ada7b56e48128e9d8.jpg)
+
 # Wie zijn wij ?
 
 DN is een onderdeel van Vuurpijl Beheer BV. Vuurpijl Beheer BV is eigendom van Roger Heykoop.
@@ -32,4 +34,4 @@ Door de enorme groei van het zeer succesvolle VuurWerk Internet kwamen de intern
 
 De wens om die processen beter te automatiseren resulteerde in verregaande automatisering die het werk van 25 FTE krachten bij VuurWerk Internet helemaal kon overnemen. Hierdoor ontstond ruimte voor betere service naar de klanten. 
 
-In 2001 is dit systeem in de markt gezet voor andere internetproviders, waarna het in 2006 is herschreven in een van de eerste versies van Ruby on Rails. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c82da022-074b-45d0-9cec-4816cb2dc9f6.jpg)
+In 2001 is dit systeem in de markt gezet voor andere internetproviders, waarna het in 2006 is herschreven in een van de eerste versies van Ruby on Rails.
