@@ -4,11 +4,18 @@
         <description><![CDATA[DN maakt Ruby on Rails webapplicaties]]></description>
         <link>http://www.dn.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 10:46:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 10:51:53 GMT</lastBuildDate>
         <atom:link href="http://www.dn.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Love.nl]]></title>
+            <description><![CDATA[<article><h1>Love.nl</h1><p>Love.nl is een datingsite waarbij gebruikers worden gematcht op basis van karaktereigenschappen, voorkeuren als leeftijd, geslacht, kinderwens etc. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7280e3c43bb750a628f835f82d4334392349c834.png"></article>]]></description>
+            <link>http://www.dn.nl/lovenl/index.html</link>
+            <guid isPermaLink="false">d2cbd299-f877-429b-b6b9-b39cfe965d98</guid>
+            <pubDate>Sun, 03 Jan 2016 10:51:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Deelstoel]]></title>
-            <description><![CDATA[<article><h1>Deelstoel</h1><p>Deelstoel is ontstaan uit de behoefte om ambtenaren de mogelijkheid te bieden om werkplekken bij andere overheidsgebouwen te boeken. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d52a47b7bd99cf9d943ab7b3c1b258cb95d5984.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Deelstoel</h1><p>Deelstoel is ontstaan uit de behoefte om ambtenaren de mogelijkheid te bieden om werkplekken bij andere overheidsgebouwen te boeken. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aebbbe057eb7cae2452497612743aa9dfb2ef5b1.png"></article>]]></description>
             <link>http://www.dn.nl/deelstoel/index.html</link>
             <guid isPermaLink="false">22e672fa-24df-438b-93ce-2ca1c8a425ce</guid>
             <pubDate>Sun, 03 Jan 2016 10:46:29 GMT</pubDate>
