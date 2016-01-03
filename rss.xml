@@ -4,8 +4,15 @@
         <description><![CDATA[DN maakt Ruby on Rails webapplicaties]]></description>
         <link>http://www.dn.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 11:29:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 11:33:08 GMT</lastBuildDate>
         <atom:link href="http://www.dn.nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DN]]></title>
+            <description><![CDATA[<article><h1>DN</h1><p>Ruby on Rails softwaredevelopment</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2cddb4c73b0114a005859655be82e43edcb80e07.jpg"></article>]]></description>
+            <link>http://www.dn.nl/6ad8e38f-c6fb-4ab3-9dc0-408f58750361/index.html</link>
+            <guid isPermaLink="false">6ad8e38f-c6fb-4ab3-9dc0-408f58750361</guid>
+            <pubDate>Sun, 03 Jan 2016 11:32:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Waarom Ruby on Rails ?]]></title>
             <description><![CDATA[<article><h1>Waarom Ruby on Rails ?</h1><p>Ruby on Rails is een framework waarin een aantal conventies samenkomen die de kwaliteit van de gemaakte software positief kunnen beïnvloeden ten opzichte van bijvoorbeeld PHP. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06a4f66d2f1dafa3ed048d19a51c2f8d545a9c68.jpg"></article>]]></description>
@@ -29,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Wie zijn wij ?]]></title>
-            <description><![CDATA[<article><h1>Wie zijn wij ?</h1><p>DN is een onderdeel van Vuurpijl Beheer BV. Vuurpijl Beheer BV is eigendom van Roger Heykoop.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a11195dab3a5bf90f602f3ad6d19c578dddb274.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Wie zijn wij ?</h1><p>DN is een onderdeel van Vuurpijl Beheer BV. Vuurpijl Beheer BV is eigendom van Roger Heykoop.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfae1b91077fab33df0a1f7b86d22b26c84f346d.jpg"></article>]]></description>
             <link>http://www.dn.nl/wie-zijn-wij/index.html</link>
             <guid isPermaLink="false">5fb441d1-d4cf-41c7-b597-30a9f6ada760</guid>
             <pubDate>Sun, 03 Jan 2016 11:29:02 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.dn.nl/offshore-profile/index.html</link>
             <guid isPermaLink="false">48c485ff-b381-4c1a-ab87-259e38026af9</guid>
             <pubDate>Sun, 03 Jan 2016 10:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Onze werkwijze bij software ontwikkeling]]></title>
-            <description><![CDATA[<article><h1>Onze werkwijze bij software ontwikkeling</h1><p>Na een eerste inventarisatie ontvangt u van ons een plan waarin wij beschrijven hoe uw applicatie ontwikkeld zal worden. Dit plan bevat een omschrijving van de functionaliteit, tijdsduur/fasering en de prijs waarvoor de applicatie ontwikkeld zal worden, alsmede de kostprijs van eventueel meerwerk. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7560e7af1bf3033d3b94c48ce6bc2bd56398f230.jpg"></article>]]></description>
-            <link>http://www.dn.nl/onze-werkwijze-bij-software-ontwikkeling/index.html</link>
-            <guid isPermaLink="false">91c1123d-203a-4d6a-8f41-b25c1db69774</guid>
-            <pubDate>Fri, 01 Jan 2016 13:58:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
