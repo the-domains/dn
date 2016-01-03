@@ -4,8 +4,15 @@
         <description><![CDATA[DN maakt Ruby on Rails webapplicaties]]></description>
         <link>http://www.dn.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 10:35:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 10:46:41 GMT</lastBuildDate>
         <atom:link href="http://www.dn.nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deelstoel]]></title>
+            <description><![CDATA[<article><h1>Deelstoel</h1><p>Deelstoel is ontstaan uit de behoefte om ambtenaren de mogelijkheid te bieden om werkplekken bij andere overheidsgebouwen te boeken. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d52a47b7bd99cf9d943ab7b3c1b258cb95d5984.png"></article>]]></description>
+            <link>http://www.dn.nl/deelstoel/index.html</link>
+            <guid isPermaLink="false">22e672fa-24df-438b-93ce-2ca1c8a425ce</guid>
+            <pubDate>Sun, 03 Jan 2016 10:46:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26feac38-a1bc-4041-ab39-2bef45013a5f.png">]]></description>
