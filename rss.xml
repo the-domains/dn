@@ -4,8 +4,15 @@
         <description><![CDATA[DN maakt Ruby on Rails webapplicaties]]></description>
         <link>http://www.dn.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 11:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 11:14:00 GMT</lastBuildDate>
         <atom:link href="http://www.dn.nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ruby on RailsSoftwareontwikkeling is onze passieDN ontwikkelt Ruby on Rails webapplicaties]]></title>
+            <description><![CDATA[<article><h1>Ruby on RailsSoftwareontwikkeling is onze passieDN ontwikkelt Ruby on Rails webapplicaties</h1><p>Sinds 2006 ontwikkelen wij software in Ruby on Rails. In die jaren is Ruby on Rails gegroeid naar een volwassen platform wat op enkele van de grootste websites van Nederland wordt gebruikt. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1de8acdfe662224a8a481507f607f971d750eee1.jpg"></article>]]></description>
+            <link>http://www.dn.nl/b8dd9197-6fad-4990-a9c4-022fba3643f2/index.html</link>
+            <guid isPermaLink="false">b8dd9197-6fad-4990-a9c4-022fba3643f2</guid>
+            <pubDate>Sun, 03 Jan 2016 11:13:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wie zijn wij ?]]></title>
             <description><![CDATA[<article><h1>Wie zijn wij ?</h1><p>DN is een onderdeel van Vuurpijl Beheer BV. Vuurpijl Beheer BV is eigendom van Roger Heykoop.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3ec831990c57e55b4538cfb69990be40cfbd0b8.jpg"></article>]]></description>
@@ -64,17 +71,10 @@
         </item>
         <item>
             <title><![CDATA[DN.nl]]></title>
-            <description><![CDATA[<article><h1>DN.nl</h1><p>dn.nl</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f7d9790623d8dc4a60d053df8cb41012e90aafc.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>DN.nl</h1><p>dn.nl</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2cddb4c73b0114a005859655be82e43edcb80e07.jpg"></article>]]></description>
             <link>http://www.dn.nl/6ad8e38f-c6fb-4ab3-9dc0-408f58750361/index.html</link>
             <guid isPermaLink="false">6ad8e38f-c6fb-4ab3-9dc0-408f58750361</guid>
             <pubDate>Sun, 03 Jan 2016 11:12:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Waarom Ruby on Rails ?]]></title>
-            <description><![CDATA[<article><h1>Waarom Ruby on Rails ?</h1><p>Ruby on Rails is een framework waarin een aantal conventies samenkomen die de kwaliteit van de gemaakte software positief kunnen beïnvloeden ten opzichte van bijvoorbeeld PHP. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b84cce98eea7a9350a28e2c4c5293c0547159a7f.jpg"></article>]]></description>
-            <link>http://www.dn.nl/1c4ca4ba-59e6-44c2-9654-477fc5f8fba7/index.html</link>
-            <guid isPermaLink="false">1c4ca4ba-59e6-44c2-9654-477fc5f8fba7</guid>
-            <pubDate>Sun, 03 Jan 2016 11:10:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
